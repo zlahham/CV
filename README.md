@@ -6,30 +6,31 @@ I am a junior software developer looking to carve out a career for myself in thi
 
 #### Teaching
 
-I taught 3 courses as an instructor with warwickCoding.
+I taught 3 courses as an instructor with [warwickCoding](www.warwickcoding.com).
 
-- Experience
-- Achievements
-- Evidence
+- Learned how to work under pressure
+- Catered to the different level of student understanding
+- Learned a lot more about HTML and CSS through answering all the student's questions
+
 
 #### Entrepreneurship
 
-I have been involved in the entrepreneurial ecosystem at the University of Warwick for a while. That is where my co-founder and I started working on our startup, CLUSTR.IO.
+I have been involved in the entrepreneurial ecosystem at the University of Warwick for a while. That is where my co-founder and I started working on our startup, [CLUSTR.IO](www.theclustr.io).
 
-- Went through the *Warwick Incubator* programme for 16 weeks
+- Went through the *[Warwick Incubator](www.warwickincubator.com)* programme for 16 weeks
 - Conducted extensive Market Research in focus groups with Students and Lecturers
 - Built a visual prototype
 - Pitched our project at the demo day in front of investors
-- Chosen to continue to work on the project fulltime after graduation by a university panel
+- We were chosen to continue to work on the project fulltime after graduation by a university panel.
 
-#### Entrepreneurial Mindset
+#### Ruby
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I feel I am more confident in this language than any other at this point in time.
+I have worked on multiple Ruby based project, here are a few of my personal favourites:
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- [TicTacToe Game](https://github.com/zlahham/tic_tac_toe)
+- [Live-Voting (Rails)](https://github.com/zlahham/live-voting)
+- [Task Manager (Sinatra)](https://github.com/zlahham/lab-week-virtual-assistant)
 
 ## Education
 
@@ -55,7 +56,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Founding member of *NESMUN*, a conference that is now in its 6th year
 - Won 1st place in a national Robotics competition
 
-#### Any other qualifications
+#### Other qualifications
 
 
 ## Experience
@@ -73,7 +74,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Phone: +44 77 48632004
 - Email: zlahham@gmail.com
-
-- https://uk.linkedin.com/in/zaidlahham
-- https://twitter.com/zaidlahham
-- http://www.codewars.com/users/zlahham
+- [Linkedin](https://uk.linkedin.com/in/zaidlahham)
+- [Twitter](https://twitter.com/zaidlahham)
+- [CodeWars](http://www.codewars.com/users/zlahham)
