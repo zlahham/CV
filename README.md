@@ -56,7 +56,6 @@ I have worked on multiple Ruby based project, here are a few of my personal favo
 - Founding member of *NESMUN*, a conference that is now in its 6th year
 - Won 1st place in a national Robotics competition
 
-#### Other qualifications
 
 
 ## Experience
