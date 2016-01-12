@@ -70,10 +70,10 @@ I have worked on multiple Ruby based project, here are a few of my personal favo
 **Injaz al Arab** (Oct 2012 - Sep 2012)   
 *Finance Intern*  
 
-## Contact/ Other Links
+<!-- ## Contact/ Other Links
 
 - Phone: +44 77 48632004
 - Email: zlahham@gmail.com
 - [Linkedin](https://uk.linkedin.com/in/zaidlahham)
 - [Twitter](https://twitter.com/zaidlahham)
-- [CodeWars](http://www.codewars.com/users/zlahham)
+- [CodeWars](http://www.codewars.com/users/zlahham) -->
