@@ -6,7 +6,7 @@ I am a junior software developer looking to carve out a career for myself in thi
 
 #### Teaching
 
-I taught 3 courses as an instructor with [warwickCoding](www.warwickcoding.com).
+I taught 3 courses as an instructor with [warwickCoding](http://www.warwickcoding.com).
 
 - Learned how to work under pressure
 - Catered to the different level of student understanding
@@ -15,9 +15,9 @@ I taught 3 courses as an instructor with [warwickCoding](www.warwickcoding.com).
 
 #### Entrepreneurship
 
-I have been involved in the entrepreneurial ecosystem at the University of Warwick for a while. That is where my co-founder and I started working on our startup, [CLUSTR.IO](www.theclustr.io).
+I have been involved in the entrepreneurial ecosystem at the University of Warwick for a while. That is where my co-founder and I started working on our startup, [CLUSTR.IO](http://www.theclustr.io).
 
-- Went through the *[Warwick Incubator](www.warwickincubator.com)* programme for 16 weeks
+- Went through the *[Warwick Incubator](http://www.warwickincubator.com)* programme for 16 weeks
 - Conducted extensive Market Research in focus groups with Students and Lecturers
 - Built a visual prototype
 - Pitched our project at the demo day in front of investors
@@ -51,8 +51,8 @@ I have worked on multiple Ruby based project, here are a few of my personal favo
 
 #### New English School (2000 - 2010)
 
-- A Levels: Economics(A), Maths(A), Business Studies(A), Arabic(A), Physics(B)
-- IGCSE: 5 A*, 2 A, 1 B
+- **A Levels**: Economics(A), Maths(A), Business Studies(A), Arabic(A), Physics(B)
+- **IGCSE**: 5 A*, 2 A, 1 B
 - Founding member of *NESMUN*, a conference that is now in its 6th year
 - Won 1st place in a national Robotics competition
 
