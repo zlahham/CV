@@ -9,7 +9,7 @@ My varied experience, both academic and non-academic have made me highly adaptab
 
 #### Teaching
 
-I taught 3 courses as an instructor with [warwickCoding](http://www.warwickcoding.com).
+I taught 3 courses as an instructor with [warwickCoding](http://www.warwickcoding.com). Each course stretched over 8 weeks.
 
 - Learned how to work under pressure
 - Catered to the different level of student understanding
@@ -21,15 +21,14 @@ I taught 3 courses as an instructor with [warwickCoding](http://www.warwickcodin
 I have been involved in the entrepreneurial ecosystem at the University of Warwick for a while. That is where my co-founder and I started working on our startup, [CLUSTR.IO](http://www.theclustr.io).
 
 - Went through the *[Warwick Incubator](http://www.warwickincubator.com)* programme for 16 weeks
-- Conducted extensive Market Research in focus groups with Students and Lecturers
-- Built a visual prototype
-- Pitched our project at the demo day in front of investors
+- Conducted extensive Market Research in focus groups with students and lecturers
+- Built a visual prototype that we showcases at the Incubator demo day in front of investors
 - We were chosen to continue to work on the project fulltime after graduation by a university panel.
 
 #### Ruby
 
 I feel I am more confident in this language than any other at this point in time.
-I have worked on multiple Ruby based project, here are a few of my personal favourites:
+I have worked on multiple Ruby based projects. Here are a few of my personal favourites:
 
 - [TicTacToe Game](https://github.com/zlahham/tic_tac_toe)
 - [Live-Voting (Rails)](https://github.com/zlahham/live-voting)
