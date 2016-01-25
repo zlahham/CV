@@ -73,7 +73,7 @@ I have worked on multiple Ruby based projects. Here are a few of my personal fav
 
 ## Additional Information
 
-I am fluent in Arabic, which I found to be more difficult that any programming language I have come across so far. I found great pleasure learning Arabic, as it showed me how a linguistic subject can also be highly mathematical and symmetrical at the same time.
+I am fluent in Arabic, which I found to be more difficult than any programming language I have come across so far. I found great pleasure learning Arabic, as it taught me how a linguistic subject can also be highly mathematical and symmetrical at the same time.
 
 <!-- ## Contact/ Other Links
 
