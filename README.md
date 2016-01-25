@@ -13,7 +13,7 @@ I taught 3 courses as an instructor with [warwickCoding](http://www.warwickcodin
 
 - Learned how to work under pressure
 - Catered to the different level of student understanding
-- Learned a lot more about HTML and CSS through answering all the student's questions
+- Learned a lot more about Ruby, HTML & CSS through answering all the student's questions
 
 
 #### Entrepreneurship
@@ -70,6 +70,10 @@ I have worked on multiple Ruby based projects. Here are a few of my personal fav
 
 **Injaz al Arab** (Oct 2012 - Sep 2012)   
 *Finance Intern*  
+
+## Additional Information
+
+I am fluent in Arabic, which I found to be more difficult that any programming language I have come across so far. I found great pleasure learning Arabic, as it showed me how a linguistic subject can also be highly mathematical and symmetrical at the same time.
 
 <!-- ## Contact/ Other Links
 
